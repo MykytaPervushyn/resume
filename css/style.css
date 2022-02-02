@@ -3,6 +3,10 @@
   background-color: #f5f7fa;
 }
 
+.photo {
+  display: block;
+}
+
 .main-container-section {
   display: flex;
   flex-direction: row;
